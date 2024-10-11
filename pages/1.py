@@ -9,7 +9,7 @@ import seaborn as sns
 # from dotenv import load_dotenv
 # import os
 
-st.markdown("<h1 style='text-align: center;'>📊지역별 성범죄 통계📊</h1>",
+st.markdown("<h1 style='text-align: center;'>🚨지역별 성범죄 통계🚨</h1>",
             unsafe_allow_html=True)
 
 # http://api.sexoffender.go.kr/index.jsp
